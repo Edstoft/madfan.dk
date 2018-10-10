@@ -1,3 +1,3 @@
 # Redirect default Netlify subdomain to primary domain
-http://nummertjek.netlify.com/* http://madfan.dk/:splat 301!
+http://nummertjek.netlify.com/* https://madfan.dk/:splat 301!
 https://nummertjek.netlify.com/* https://madfan.dk/:splat 301!
